@@ -1,5 +1,13 @@
 <img src="https://github.com/rishowrav/rishowrav/blob/main/banner.png" alt="rishowrav GitHub README header image">
 
+
+
+
+## Overview
+<p>As a Junior Front End Developer, I specialize in creating dynamic and responsive web applications. My skill set includes proficiency in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and frameworks like <b>React</b>, allowing me to build interactive user interfaces. I also have experience with <b>ExpressJS</b> for backend development and <b> Tailwind CSS</b> for efficient styling. My expertise extends to <b>Firebase Authentication</b> for secure user management and <b>MongoDB</b> for robust database solutions. I am passionate about learning and staying updated with the latest technologies, aiming to deliver high-quality code and innovative solutions. My goal is to contribute to impactful projects within a collaborative team environment.</p>
+
+
+
 ## Skills
 
 <br>
@@ -17,6 +25,8 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p>
 <br/>
+
+
 
 
 
