@@ -1,4 +1,4 @@
-<img src="https://github.com/rishowrav/rishowrav/blob/main/header.png" alt="rishowrav GitHub README header image">
+<img src="https://github.com/rishowrav/rishowrav/blob/main/banner.png" alt="rishowrav GitHub README header image">
 <!--
 **rishowrav/rishowrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
