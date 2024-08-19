@@ -1,4 +1,4 @@
-<img src="https://github.com/rishowrav/rishowrav/blob/main/banner.png" alt="rishowrav GitHub README header image">
+<img src="https://github.com/rishowrav/rishowrav/blob/main/web developer.png" alt="rishowrav GitHub README header image">
 
 
 
